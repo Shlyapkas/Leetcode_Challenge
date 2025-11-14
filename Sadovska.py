@@ -18,4 +18,4 @@ class Solution:
 
 s = Solution
 
-print(s.gcdOfStrings("ABABAB", "ABAB"))
+print(s.gcdOfStrings(0, "ABABAB", "ABAB"))
